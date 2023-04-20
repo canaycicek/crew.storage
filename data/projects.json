@@ -1,6 +1,71 @@
 [
 	{
-		"title": "Trap",
+		"title": "Gitar Beat",
+		"musics": [
+			{
+				"name": "Forever",
+				"image": "forever.png",
+				"music": "forever.mp3",
+				"social": [
+					"https://www.facebook.com/TrapMusicHD",
+					"https://www.youtube.com/user/TrapMusicHD",
+					"https://soundcloud.com/trapmusichd",
+					"https://instagram.com/trapmusichd/",
+					"https://spotify.com/user/trapmusichd",
+					"https://music.apple.com/us/album/rumors/1228181589?i=1228181732",
+					"https://tiktok.com/@trapmusichd",
+					"https://deezer.com/artist/1228181589"
+				]
+			},
+            {
+				"name": "Feel",
+				"image": "feel.png",
+				"music": "feel.mp3",
+				"social": [
+					"https://www.facebook.com/TrapMusicHD",
+					"https://www.youtube.com/user/TrapMusicHD",
+					"https://soundcloud.com/trapmusichd",
+					"https://instagram.com/trapmusichd/",
+					"https://spotify.com/user/trapmusichd",
+					"https://music.apple.com/us/album/rumors/1228181589?i=1228181732",
+					"https://tiktok.com/@trapmusichd",
+					"https://deezer.com/artist/1228181589"
+				]
+			},
+            {
+				"name": "Angel",
+				"image": "angel.png",
+				"music": "angel.mp3",
+				"social": [
+					"https://www.facebook.com/TrapMusicHD",
+					"https://www.youtube.com/user/TrapMusicHD",
+					"https://soundcloud.com/trapmusichd",
+					"https://instagram.com/trapmusichd/",
+					"https://spotify.com/user/trapmusichd",
+					"https://music.apple.com/us/album/rumors/1228181589?i=1228181732",
+					"https://tiktok.com/@trapmusichd",
+					"https://deezer.com/artist/1228181589"
+				]
+			},
+            {
+				"name": "Alone",
+				"image": "alone.png",
+				"music": "alone.mp3",
+				"social": [
+					"https://www.facebook.com/TrapMusicHD",
+					"https://www.youtube.com/user/TrapMusicHD",
+					"https://soundcloud.com/trapmusichd",
+					"https://instagram.com/trapmusichd/",
+					"https://spotify.com/user/trapmusichd",
+					"https://music.apple.com/us/album/rumors/1228181589?i=1228181732",
+					"https://tiktok.com/@trapmusichd",
+					"https://deezer.com/artist/1228181589"
+				]
+			}
+		]
+	},
+    {
+		"title": "Drill Beat",
 		"musics": [
 			{
 				"name": "Fear",
@@ -16,12 +81,12 @@
 					"https://tiktok.com/@trapmusichd",
 					"https://deezer.com/artist/1228181589"
 				]
-			},
-			{
-				"name": "Forever",
-				"image": "forever.png",
-				"music": "forever.mp3"
 			}
+            
 		]
+	},
+    {
+		"title": "Trap Beat",
+		"musics": []
 	}
 ]
