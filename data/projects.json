@@ -22,6 +22,7 @@
 				"name": "Feel",
 				"image": "feel.png",
 				"music": "feel.mp3",
+		    		"color": "#df72fb",
 				"social": [
 					"https://www.facebook.com/TrapMusicHD",
 					"https://www.youtube.com/user/TrapMusicHD",
@@ -37,6 +38,7 @@
 				"name": "Angel",
 				"image": "angel.png",
 				"music": "angel.mp3",
+				"color": "#f0a920",
 				"social": [
 					"https://www.facebook.com/TrapMusicHD",
 					"https://www.youtube.com/user/TrapMusicHD",
@@ -52,6 +54,7 @@
 				"name": "Alone",
 				"image": "alone.png",
 				"music": "alone.mp3",
+				"color": "#317eb1",
 				"social": [
 					"https://www.facebook.com/TrapMusicHD",
 					"https://www.youtube.com/user/TrapMusicHD",
@@ -72,6 +75,7 @@
 				"name": "Fear",
 				"image": "fear.png",
 				"music": "fear.mp3",
+				"color": "#2e5df6",
 				"social": [
 					"https://www.facebook.com/TrapMusicHD",
 					"https://www.youtube.com/user/TrapMusicHD",
